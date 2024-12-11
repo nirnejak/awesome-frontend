@@ -42,13 +42,35 @@
 
 ### Components
 
-- []()
+- [CraftJS](https://craft.js.org/)
+- [Vaul](https://vaul.emilkowal.ski/)
+- [OTP Input](https://input-otp.rodz.dev/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Houseform](https://houseform.dev/)
+- [use-gesture](https://use-gesture.netlify.app/)
+- [React Query Builder](https://www.npmjs.com/package/react-querybuilder#demo)
+- [tldraw](https://www.npmjs.com/package/@tldraw/tldraw)
+- [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree)
+- [NumberFlow](https://number-flow.barvian.me/) - Transition and format numbers
 
 ---
 
 ### Component Library
 
-- []()
+- [Magic UI](https://magicui.design/)
+- [Motion Primitives](https://motion-primitives.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Aceternity](https://ui.aceternity.com/)
+- [Cult UI](https://www.cult-ui.com/)
+- [new Cult](https://www.newcult.co/)
+- [NextBase](https://usenextbase.com/)
+- [Float UI](https://floatui.com/)
+- [Precedent](https://precedent.dev/)
+- [Primer](https://github.com/primer/)
+- [Mantine](https://mantine.dev/)
+- [Tremor](https://www.tremor.so/)
+- [Next UI](https://nextui.org/)
+- [Oxbow UI](https://oxbowui.com/)
 
 ---
 
@@ -108,7 +130,24 @@
 
 ### Code, Text Editor
 
--[]()
+- [rehype-pretty-code](https://www.npmjs.com/package/rehype-pretty-code)
+- [Codemirror](https://codemirror.net/)
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+- [ace.c9.io](https://ace.c9.io/)
+- [React JSON View](https://www.npmjs.com/package/react-json-view)
+- [Sugar High](https://www.npmjs.com/package/sugar-high)
+- [Shiki](https://shiki.style/)
+- [HighlightJS](https://highlightjs.org/)
+- [PrismJS](https://prismjs.com/)
+- [Prism Themes](https://www.npmjs.com/package/prism-themes)
+- [Prism theme generator](http://k88hudson.github.io/syntax-highlighting-theme-generator/www/)
+- [Quill JS](https://quilljs.com/)
+- [Sir Trevor JS](https://madebymany.github.io/sir-trevor-js/)
+- [DraftJS](https://draftjs.org/)
+- [Milkdown](https://milkdown.dev/#/)
+- [EditorJS](https://editorjs.io/)
+- [TipTap](https://tiptap.dev/)
+- [Sandpack](https://sandpack.codesandbox.io/) - Component toolkit for creating live-running code editing experiences
 
 ---
 
