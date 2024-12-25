@@ -59,6 +59,7 @@
 
 - [Magic UI](https://magicui.design/)
 - [Motion Primitives](https://motion-primitives.com/)
+- [Fancy Components](https://www.fancycomponents.dev/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Aceternity](https://ui.aceternity.com/)
 - [Cult UI](https://www.cult-ui.com/)
